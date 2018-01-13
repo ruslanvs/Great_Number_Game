@@ -1,0 +1,1 @@
+Flask sessions educational assignment at Coding Dojo
